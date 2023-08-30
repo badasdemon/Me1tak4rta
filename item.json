@@ -1,0 +1,233 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic1.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic2.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic3.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic4.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic5.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic6.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic7.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic8.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic9.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic10.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic11.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic12.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic13.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic14.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic15.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic16.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic17.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic18.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic19.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic20.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic21.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic22.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic23.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic24.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic25.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic26.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic27.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic28.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Aesthetic",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/thumb/tAesthetic29.png",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/png/pAesthetic29.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/Pack/Aesthetic%20SkinPack/Aesthetic%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Aesthetic/Pack/Aesthetic%20SkinPack/Aesthetic%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}
