@@ -1,0 +1,307 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus30.png"
+    }
+    ,
+    {
+      "id": 31,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus31.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus32.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus33.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus34.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus35.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus36.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus37.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus38.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus39.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus40.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "Among Us",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/thumb/amongus41.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Amongus/png/amongus41.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/Pack/amongus%20SkinPack/amongus%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Amongus/Pack/amongus%20SkinPack/amongus%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

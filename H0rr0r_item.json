@@ -1,0 +1,241 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Horror",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/thumb/horror30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Horror/png/horror30.png"
+    }
+    
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/Pack/horror%20SkinPack/horror%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Horror/Pack/horror%20SkinPack/horror%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

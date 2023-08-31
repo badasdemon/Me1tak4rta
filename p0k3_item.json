@@ -1,0 +1,416 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke30.png"
+    }
+    ,
+    {
+      "id": 31,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke31.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke32.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke33.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke34.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke35.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke36.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke37.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke38.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke39.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke40.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke41.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke42.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke42.png"
+    },
+    {
+      "id": 43,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke43.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke43.png"
+    },
+    {
+      "id": 44,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke44.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke44.png"
+    },
+    {
+      "id": 45,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke45.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke45.png"
+    },
+    {
+      "id": 46,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke46.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke46.png"
+    },
+    {
+      "id": 47,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke47.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke47.png"
+    },
+    {
+      "id": 48,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke48.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke48.png"
+    },
+    {
+      "id": 49,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke49.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke9.png"
+    },
+    {
+      "id": 50,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke50.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke50.png"
+    },
+    {
+      "id": 51,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke51.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke51.png"
+    },
+    {
+      "id": 52,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke52.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke52.png"
+    },
+    {
+      "id": 53,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke53.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke53.png"
+    },
+    {
+      "id": 54,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke54.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke54.png"
+    },
+    {
+      "id": 55,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke55.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke55.png"
+    },
+    {
+      "id": 56,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke56.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke56.png"
+    },
+    {
+      "id": 57,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke57.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke57.png"
+    },
+    {
+      "id": 58,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke58.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke58.png"
+    },
+    {
+      "id": 59,
+      "name_skin": "Poke",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/thumb/poke59.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Poke/png/poke59.png"
+    }
+    
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/Pack/poke%20SkinPack/poke%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Poke/Pack/poke%20SkinPack/poke%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

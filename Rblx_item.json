@@ -1,0 +1,241 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Rblx",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/thumb/roblox30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Rblx/png/roblox30.png"
+    }
+    
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/Pack/roblox%20SkinPack/roblox%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Rblx/Pack/roblox%20SkinPack/roblox%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Maid",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/thumb/maid29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Maid/png/maid29.png"
+    }
+    
+    
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/Pack/maid%20SkinPack/maid%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Maid/Pack/maid%20SkinPack/maid%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

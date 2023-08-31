@@ -1,0 +1,334 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace30.png"
+    }
+    ,
+    {
+      "id": 31,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace31.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace32.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace33.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace34.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace35.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace36.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace37.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace38.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace39.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace40.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace41.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace42.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace42.png"
+    }
+    ,
+    {
+      "id": 43,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace43.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace43.png"
+    }
+    ,
+    {
+      "id": 44,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace44.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace44.png"
+    }
+    ,
+    {
+      "id": 45,
+      "name_skin": "Grimace",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/thumb/grimace45.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Grimace/png/grimace45.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/Pack/grimace%20SkinPack/grimace%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Grimace/Pack/grimace%20SkinPack/grimace%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

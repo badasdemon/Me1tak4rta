@@ -1,0 +1,283 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman30.png"
+    }
+    ,
+    {
+      "id": 31,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman31.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman32.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman33.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman34.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman35.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman36.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Speakerman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/thumb/speakerman37.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/png/speakerman37.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/Pack/Speakerman%20SkinPack/Speakerman%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Speakerman/Pack/Speakerman%20SkinPack/Speakerman%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

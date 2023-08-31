@@ -1,0 +1,313 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe30.png"
+    }
+    ,
+    {
+      "id": 31,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe31.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe32.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe33.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe34.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe35.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe36.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe37.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe38.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe39.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe40.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe41.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "Exe",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/thumb/exe42.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Exe/png/exe42.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/Pack/Exe%20SkinPack/Exe%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Exe/Pack/Exe%20SkinPack/Exe%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

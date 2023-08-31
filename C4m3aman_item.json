@@ -1,0 +1,221 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Cameraman",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/thumb/cameraman27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/png/cameraman27.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/Pack/cameraman%20SkinPack/cameraman%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Cameraman/Pack/cameraman%20SkinPack/cameraman%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

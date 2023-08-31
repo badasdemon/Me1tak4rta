@@ -1,0 +1,239 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "One Piece",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/thumb/onepiece30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/1piece/png/onepiece30.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/Pack/Aesthetic%20SkinPack/Aesthetic%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/1piece/Pack/Aesthetic%20SkinPack/Aesthetic%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy1.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy2.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy3.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy4.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy5.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy6.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy7.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy8.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy9.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy10.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy11.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy12.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy13.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy14.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy15.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy16.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy17.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy18.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy19.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy20.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy21.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy22.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy23.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy24.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy25.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy26.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy27.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy28.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy29.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy29.png"
+    }
+    ,
+    {
+      "id": 30,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy30.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy30.png"
+    }
+    ,
+    {
+      "id": 31,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy31.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy32.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy33.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy34.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy35.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy36.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy37.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "FNAF",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/thumb/freddy38.png",
+      "skin_url": "https://aweu.net/Sekin/Meita%20Karta/Freddy/png/freddy38.png"
+    }
+  ],
+  "Skin-Pack": [
+    {
+      "id": 1,
+      "name_skin": "Aesthetic Skinpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/Pack/freddy%20SkinPack/freddy%20SkinPack.mcpack",
+      "view_skin": "https://aweu.net/Sekin/Meita%20Karta/Freddy/Pack/freddy%20SkinPack/freddy%20SkinPack.png",
+      "des_skin": ""
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "Technical Vehicle",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
+      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
+      "view_add": "file:///android_asset/cat.png",
+      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "One Blocco 2023",
+      "view_map": "file:///android_asset/bloco.jpeg",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "des_map": "file:///android_asset/samplemaps.html"
+    }
+  ]
+}
